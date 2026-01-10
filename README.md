@@ -1,35 +1,35 @@
 # Olá, eu sou Marcos Vinicius
 
-Sou **Desenvolvedor de Software em formação**, graduando em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **web moderno** e construção de interfaces funcionais, escaláveis e bem estruturadas.
+Sou Desenvolvedor de Software em formação, graduando em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web moderno e construção de interfaces funcionais e bem estruturadas, especialmente com Next.js e TypeScript.
 
-Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do ecossistema JavaScript, aplicando boas práticas de código, versionamento e organização de projetos.
+Desenvolvo projetos práticos voltados ao front-end, com ênfase em componentização, organização de código e boas práticas. Também possuo experiência com desenvolvimento mobile utilizando Flutter e Dart, e estou em processo de implementação de back-end com Node.js e APIs REST em projetos próprios, aplicando versionamento e estruturação profissional de repositórios.
 
 ---
 
 ## Tecnologias e Ferramentas
 
 **Front-end**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)  
 
 **Back-end**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![REST API](https://img.shields.io/badge/API-REST-lightgrey)
 
 **Mobile**  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 
 **Outras Linguagens**  
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 
 **Ferramentas**  
-![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
 ---
 
@@ -37,9 +37,9 @@ Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do eco
 
 ### 🛒 GAM3R.STORE — E-commerce Simples
 
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-informational)
 
 Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tailwind CSS**, como parte da **Formação DEV da Cod3r**. O projeto simula um fluxo de loja virtual, com foco em **componentização**, **organização de código** e **modelagem de dados**.
@@ -50,6 +50,7 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 * Carrinho de compras
 * Estrutura modular de componentes
 * Uso de interfaces TypeScript para definição de dados
+* Back-end (Node.js / APIs REST): em desenvolvimento
 
 📷 O repositório conta com **prints documentando cada etapa da evolução do projeto**, permitindo acompanhar o desenvolvimento passo a passo.
 
@@ -60,7 +61,9 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 
 ### 📝 Listinha — App de Lista de Tarefas
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;![Status](https://img.shields.io/badge/status-conclu%C3%ADdo%20\(necessita%20atualiza%C3%A7%C3%A3o\)-orange)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo%20\(necessita%20atualiza%C3%A7%C3%A3o\)-orange)
 
 Aplicativo mobile desenvolvido com **Flutter e Dart**, com o objetivo de praticar **gerenciamento de estado**, **componentização de widgets** e **persistência simples de dados**.
 
@@ -80,7 +83,7 @@ Aplicativo mobile desenvolvido com **Flutter e Dart**, com o objetivo de pratica
 
 ### ❌⭕ Jogo da Velha
 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-success)
 
 Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de programação**, **manipulação de estado** e **controle de fluxo de jogo** em uma aplicação web.

@@ -1,20 +1,79 @@
-# Olá, eu sou o Marcos Vinicius 👋
+# 👋 Olá, eu sou Marcos Vinicius
 
-Sou um estudante de **Análise e Desenvolvimento de Sistemas** apaixonado por tecnologia e design. Atualmente estou focado em me tornar um desenvolvedor Fullstack, unindo minha experiência de 15 anos em design gráfico com a programação.
+Sou **Desenvolvedor de Software em formação**, graduando em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **web moderno** e construção de interfaces funcionais, escaláveis e bem estruturadas.
 
-### 🛠 Tecnologias e Ferramentas
-- **Frontend:** React, Next.js, TypeScript, Tailwind CSS
-- **Mobile:** Flutter & Dart
-- **Backend:** Python (estudando)
-- **Design:** Photoshop, Corel Draw (Especialista em Arte-final)
-
-### 🚀 Meus Projetos em Destaque
-- **Projetos React:** [Liste aqui o nome de um projeto público seu] - *Descrição breve do que o app faz.*
-- **Projetos Mobile (Flutter):** [Liste aqui o nome de um projeto público seu] - *Ex: App de lista de tarefas ou clima.*
-
-### 📫 Como me encontrar
-- LinkedIn: [linkedin.com/in/marcosvrpereira](https://www.linkedin.com/in/marcosvrpereira)
-- Email: marck.vinny@gmail.com
+Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do ecossistema JavaScript, aplicando boas práticas de código, versionamento e organização de projetos.
 
 ---
-*"Aprender, superar e fazer a diferença."*
+
+## 🚀 Tecnologias e Ferramentas
+
+**Front-end**
+
+* React | Next.js
+* TypeScript
+* Tailwind CSS
+
+**Back-end**
+
+* Node.js
+* APIs REST
+
+**Mobile**
+
+* Flutter
+* Dart
+
+**Outras Linguagens**
+
+* Python
+
+**Ferramentas**
+
+* Git & GitHub
+* Figma
+* VS Code
+
+---
+
+## 📌 Projetos em Destaque
+
+### 🛒 GAM3R.STORE — E-commerce Simples
+
+[![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)]
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)]
+[![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)]
+[![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)]
+
+Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tailwind CSS**, como parte da **Formação DEV da Cod3r**. O projeto simula um fluxo de loja virtual, com foco em **componentização**, **organização de código** e **modelagem de dados**.
+
+**Funcionalidades implementadas:**
+
+* Listagem de produtos em layout responsivo
+* Página de detalhes do produto
+* Carrinho de compras
+* Estrutura modular de componentes
+* Uso de interfaces TypeScript para definição de dados
+
+📷 O repositório conta com **prints documentando cada etapa da evolução do projeto**, permitindo acompanhar o desenvolvimento passo a passo.
+
+🔗 Repositório:
+👉 [https://github.com/MarckVinny/GAM3R.STORE-ECommerce-Simples](https://github.com/MarckVinny/GAM3R.STORE-ECommerce-Simples)
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Marcos Vinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarckVinny\&show_icons=true\&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckVinny\&layout=compact)
+
+---
+
+## 📫 Contato
+
+* 💼 LinkedIn: [linkedin.com/in/marcosvrpereira](https://www.linkedin.com/in/marcosvrpereira)
+* 💻 GitHub: [github.com/MarckVinny](https://github.com/MarckVinny)
+
+---
+
+⭐ Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução como desenvolvedor.

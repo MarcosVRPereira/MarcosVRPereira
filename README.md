@@ -58,8 +58,8 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 
 ## 📊 Estatísticas do GitHub
 
-![Marcos Vinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarckVinny&show_icons=true&hide_title=true&cache_seconds=1800)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckVinny&layout=compact&langs_count=6&cache_seconds=1800)
+![Marcos Vinicius GitHub Stats](https://github-readme-stats-eight-theta.vercel.app/api?username=MarckVinny&show_icons=true&hide_title=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MarckVinny&layout=compact&langs_count=6&cache_seconds=1800)
 
 ---
 

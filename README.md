@@ -40,7 +40,7 @@ Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do eco
 ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/status-em%20desenvolvimento-yellow)
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-informational)
 
 Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tailwind CSS**, como parte da **Formação DEV da Cod3r**. O projeto simula um fluxo de loja virtual, com foco em **componentização**, **organização de código** e **modelagem de dados**.
 
@@ -58,32 +58,9 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 
 ---
 
-### ❌⭕ Jogo da Velha
-
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)
-
-Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de programação**, **manipulação de estado** e **controle de fluxo de jogo** em uma aplicação web.
-
-**Conceitos aplicados:**
-
-* Regras e validações do jogo (vitória, empate e jogadas inválidas)
-* Controle de estado do tabuleiro
-* Separação entre lógica do jogo e interface
-* Atualização dinâmica da interface conforme interações do usuário
-
-🎯 Projeto focado em **fundamentos**, servindo como base sólida para aplicações mais complexas.
-
-🔗 Repositório:
-👉 [https://github.com/MarckVinny/Jogo-da-Velha](https://github.com/MarckVinny/Jogo-da-Velha)
-
----
-
 ### 📝 Listinha — App de Lista de Tarefas
 
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Status](https://img.shields.io/badge/status-conclu%C3%ADdo%20\(necessita%20atualiza%C3%A7%C3%A3o\)-yellow)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;![Status](https://img.shields.io/badge/status-conclu%C3%ADdo%20\(necessita%20atualiza%C3%A7%C3%A3o\)-orange)
 
 Aplicativo mobile desenvolvido com **Flutter e Dart**, com o objetivo de praticar **gerenciamento de estado**, **componentização de widgets** e **persistência simples de dados**.
 
@@ -98,6 +75,27 @@ Aplicativo mobile desenvolvido com **Flutter e Dart**, com o objetivo de pratica
 
 🔗 Repositório:
 👉 [https://github.com/MarckVinny/listinha](https://github.com/MarckVinny/listinha)
+
+---
+
+### ❌⭕ Jogo da Velha
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)&nbsp;&nbsp;&nbsp;&nbsp;
+![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-success)
+
+Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de programação**, **manipulação de estado** e **controle de fluxo de jogo** em uma aplicação web.
+
+**Conceitos aplicados:**
+
+* Regras e validações do jogo (vitória, empate e jogadas inválidas)
+* Controle de estado do tabuleiro
+* Separação entre lógica do jogo e interface
+* Atualização dinâmica da interface conforme interações do usuário
+
+🎯 Projeto focado em **fundamentos**, servindo como base sólida para aplicações mais complexas.
+
+🔗 Repositório:
+👉 [https://github.com/MarckVinny/Jogo-da-Velha](https://github.com/MarckVinny/Jogo-da-Velha)
 
 ---
 

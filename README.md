@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Marcos Vinicius
+# Olá, eu sou Marcos Vinicius
 
 Sou **Desenvolvedor de Software em formação**, graduando em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **web moderno** e construção de interfaces funcionais, escaláveis e bem estruturadas.
 
@@ -6,7 +6,7 @@ Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do eco
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 **Front-end**
 * React | Next.js
@@ -53,6 +53,49 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 
 🔗 Repositório:
 👉 [https://github.com/MarckVinny/GAM3R.STORE-ECommerce-Simples](https://github.com/MarckVinny/GAM3R.STORE-ECommerce-Simples)
+
+---
+
+### ❌⭕ Jogo da Velha
+
+[![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript\&logoColor=F7DF1E)]
+[![Status](https://img.shields.io/badge/status-conclu%C3%ADdo-brightgreen)]
+
+Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de programação**, **manipulação de estado** e **controle de fluxo de jogo** em uma aplicação web.
+
+**Conceitos aplicados:**
+
+* Regras e validações do jogo (vitória, empate e jogadas inválidas)
+* Controle de estado do tabuleiro
+* Separação entre lógica do jogo e interface
+* Atualização dinâmica da interface conforme interações do usuário
+
+🎯 Projeto focado em **fundamentos**, servindo como base sólida para aplicações mais complexas.
+
+🔗 Repositório:
+👉 [https://github.com/MarckVinny/Jogo-da-Velha](https://github.com/MarckVinny/Jogo-da-Velha)
+
+---
+
+### 📝 Listinha — App de Lista de Tarefas
+
+[![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)]
+[![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)]
+[![Status](https://img.shields.io/badge/status-conclu%C3%ADdo%20\(necessita%20atualiza%C3%A7%C3%A3o\)-yellow)]]
+
+Aplicativo mobile desenvolvido com **Flutter e Dart**, com o objetivo de praticar **gerenciamento de estado**, **componentização de widgets** e **persistência simples de dados**.
+
+**Funcionalidades implementadas:**
+
+* Criação e remoção de itens em uma lista de tarefas
+* Marcação de tarefas como concluídas
+* Atualização dinâmica da interface
+* Organização do código em widgets reutilizáveis
+
+🎯 Projeto concluído do ponto de vista funcional, atualmente **necessitando atualização para versões mais recentes do Flutter**, servindo como base sólida para refatoração e modernização do código.
+
+🔗 Repositório:
+👉 [https://github.com/MarckVinny/listinha](https://github.com/MarckVinny/listinha)
 
 ---
 

@@ -8,26 +8,28 @@ Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do eco
 
 ## Tecnologias e Ferramentas
 
-**Front-end**
-* React | Next.js
-* TypeScript
-* Tailwind CSS
+**Front-end**  
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)  
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs\&logoColor=white)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)  
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss\&logoColor=white)  
 
-**Back-end**
-* Node.js
-* APIs REST
+**Back-end**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs\&logoColor=white)  
+![REST API](https://img.shields.io/badge/API-REST-lightgrey)
 
-**Mobile**
-* Flutter
-* Dart
+**Mobile**  
+![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter\&logoColor=white)  
+![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart\&logoColor=white)
 
-**Outras Linguagens**
-* Python
+**Outras Linguagens**  
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 
-**Ferramentas**
-* Git & GitHub
-* Figma
-* VS Code
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)  
+![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github\&logoColor=white)  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma\&logoColor=white)  
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode\&logoColor=white)
 
 ---
 

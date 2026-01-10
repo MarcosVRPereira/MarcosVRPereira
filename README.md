@@ -9,27 +9,22 @@ Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do eco
 ## 🚀 Tecnologias e Ferramentas
 
 **Front-end**
-
 * React | Next.js
 * TypeScript
 * Tailwind CSS
 
 **Back-end**
-
 * Node.js
 * APIs REST
 
 **Mobile**
-
 * Flutter
 * Dart
 
 **Outras Linguagens**
-
 * Python
 
 **Ferramentas**
-
 * Git & GitHub
 * Figma
 * VS Code
@@ -48,7 +43,6 @@ Atualmente, estudo e desenvolvo projetos práticos utilizando tecnologias do eco
 Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tailwind CSS**, como parte da **Formação DEV da Cod3r**. O projeto simula um fluxo de loja virtual, com foco em **componentização**, **organização de código** e **modelagem de dados**.
 
 **Funcionalidades implementadas:**
-
 * Listagem de produtos em layout responsivo
 * Página de detalhes do produto
 * Carrinho de compras
@@ -64,13 +58,12 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 
 ## 📊 Estatísticas do GitHub
 
-![Marcos Vinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarckVinny\&show_icons=true\&theme=default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckVinny\&layout=compact)
+![Marcos Vinicius GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarckVinny&show_icons=true&hide_title=true&cache_seconds=1800)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarckVinny&layout=compact&langs_count=6&cache_seconds=1800)
 
 ---
 
 ## 📫 Contato
-
 * 💼 LinkedIn: [linkedin.com/in/marcosvrpereira](https://www.linkedin.com/in/marcosvrpereira)
 * 💻 GitHub: [github.com/MarckVinny](https://github.com/MarckVinny)
 

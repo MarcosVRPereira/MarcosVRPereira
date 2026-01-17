@@ -1,4 +1,4 @@
-# Olá, eu sou Marcos Vinicius
+# 😉 Olá, eu sou Marcos Vinicius
 
 Sou Desenvolvedor de Software em formação, graduando em Análise e Desenvolvimento de Sistemas, com foco em desenvolvimento web moderno e construção de interfaces funcionais e bem estruturadas, especialmente com Next.js e TypeScript.
 
@@ -6,7 +6,7 @@ Desenvolvo projetos práticos voltados ao front-end, com ênfase em componentiza
 
 ---
 
-## Tecnologias e Ferramentas
+## 🖥️ Tecnologias e Ferramentas
 
 **Front-end**  
 ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)&nbsp;&nbsp;&nbsp;&nbsp;

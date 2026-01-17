@@ -55,7 +55,7 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 📷 O repositório conta com **prints documentando cada etapa da evolução do projeto**, permitindo acompanhar o desenvolvimento passo a passo.
 
 🔗 Repositório:
-👉 [https://github.com/MarckVinny/GAM3R.STORE-ECommerce-Simples](https://github.com/MarckVinny/GAM3R.STORE-ECommerce-Simples)
+👉 [https://github.com/MarcosVRPereira/GAM3R.STORE-ECommerce-Simples](https://github.com/MarcosVRPereira/GAM3R.STORE-ECommerce-Simples)
 
 ---
 
@@ -77,7 +77,7 @@ Aplicativo mobile desenvolvido com **Flutter e Dart**, com o objetivo de pratica
 🎯 Projeto concluído do ponto de vista funcional, atualmente **necessitando atualização para versões mais recentes do Flutter**, servindo como base sólida para refatoração e modernização do código.
 
 🔗 Repositório:
-👉 [https://github.com/MarckVinny/listinha](https://github.com/MarckVinny/listinha)
+👉 [https://github.com/MarcosVRPereira/listinha](https://github.com/MarcosVRPereira/listinha)
 
 ---
 
@@ -98,20 +98,20 @@ Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de p
 🎯 Projeto focado em **fundamentos**, servindo como base sólida para aplicações mais complexas.
 
 🔗 Repositório:
-👉 [https://github.com/MarckVinny/Jogo-da-Velha](https://github.com/MarckVinny/Jogo-da-Velha)
+👉 [https://github.com/MarcosVRPereira/Jogo-da-Velha](https://github.com/MarcosVRPereira/Jogo-da-Velha)
 
 ---
 
 ## 📊 Estatísticas do GitHub
 
-![Marcos Vinicius GitHub Stats](https://github-readme-stats-chi-azure-93.vercel.app/api?username=MarckVinny&show_icons=true&hide_title=true&cache_seconds=1800&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-chi-azure-93.vercel.app/api/top-langs/?username=MarckVinny&layout=compact&langs_count=6&cache_seconds=1800&count_private=true&theme=tokyonight)
+![Marcos Vinicius GitHub Stats](https://github-readme-stats-chi-azure-93.vercel.app/api?username=MarcosVRPereira&show_icons=true&hide_title=true&cache_seconds=1800&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-chi-azure-93.vercel.app/api/top-langs/?username=MarcosVRPereira&layout=compact&langs_count=6&cache_seconds=1800&count_private=true&theme=tokyonight)
 
 ---
 
 ## 📫 Contato
 * 💼 LinkedIn: [linkedin.com/in/marcosvrpereira](https://www.linkedin.com/in/marcosvrpereira)
-* 💻 GitHub: [github.com/MarckVinny](https://github.com/MarckVinny)
+* 💻 GitHub: [github.com/MarcosVRPereira](https://github.com/MarcosVRPereira)
 
 ---
 

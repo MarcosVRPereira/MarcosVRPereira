@@ -104,8 +104,8 @@ Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de p
 
 ## 📊 Estatísticas do GitHub
 
-![Marcos Vinicius GitHub Stats](https://github-readme-stats-chi-azure-93.vercel.app/api?username=MarcosVRPereira&show_icons=true&hide_title=true&cache_seconds=1800&count_private=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats-chi-azure-93.vercel.app/api/top-langs/?username=MarcosVRPereira&layout=compact&langs_count=6&cache_seconds=1800&count_private=true&theme=tokyonight)
+![Marcos Vinicius GitHub Stats](https://github-readme-stats-marcosvrpereira.vercel.app/api?username=MarcosVRPereira&show_icons=true&hide_title=true&cache_seconds=1800&count_private=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats-marcosvrpereira.vercel.app/api/top-langs?username=MarcosVRPereira&layout=compact&langs_count=6&cache_seconds=1800&count_private=true&theme=tokyonight)
 
 ---
 

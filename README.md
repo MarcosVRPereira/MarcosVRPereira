@@ -55,7 +55,7 @@ Projeto de **e-commerce front-end** desenvolvido com **Next.js, TypeScript e Tai
 📷 O repositório conta com **prints documentando cada etapa da evolução do projeto**, permitindo acompanhar o desenvolvimento passo a passo.
 
 🔗 Repositório:
-👉 [https://github.com/MarcosVRPereira/GAM3R.STORE-ECommerce-Simples](https://github.com/MarcosVRPereira/GAM3R.STORE-ECommerce-Simples)
+👉 [GAM3R.STORE ECommerce Simples](https://github.com/MarcosVRPereira/GAM3R.STORE-ECommerce-Simples)
 
 ---
 
@@ -77,7 +77,7 @@ Aplicativo mobile desenvolvido com **Flutter e Dart**, com o objetivo de pratica
 🎯 Projeto concluído do ponto de vista funcional, atualmente **necessitando atualização para versões mais recentes do Flutter**, servindo como base sólida para refatoração e modernização do código.
 
 🔗 Repositório:
-👉 [https://github.com/MarcosVRPereira/listinha](https://github.com/MarcosVRPereira/listinha)
+👉 [Listinha](https://github.com/MarcosVRPereira/listinha)
 
 ---
 
@@ -98,7 +98,7 @@ Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de p
 🎯 Projeto focado em **fundamentos**, servindo como base sólida para aplicações mais complexas.
 
 🔗 Repositório:
-👉 [https://github.com/MarcosVRPereira/Jogo-da-Velha](https://github.com/MarcosVRPereira/Jogo-da-Velha)
+👉 [Jogo da Velha](https://github.com/MarcosVRPereira/Jogo-da-Velha)
 
 ---
 
@@ -110,8 +110,8 @@ Projeto clássico de **Jogo da Velha** desenvolvido para praticar **lógica de p
 ---
 
 ## 📫 Contato
-* 💼 LinkedIn: [linkedin.com/in/marcosvrpereira](https://www.linkedin.com/in/marcosvrpereira)
-* 💻 GitHub: [github.com/MarcosVRPereira](https://github.com/MarcosVRPereira)
+* 💼 [LinkedIn](https://www.linkedin.com/in/marcosvrpereira)
+* 💻 [GitHub](https://github.com/MarcosVRPereira)
 
 ---
 

@@ -104,7 +104,7 @@ Projeto clássico de ***Jogo da Velha*** desenvolvido para praticar ***lógica d
 
 ### 📡 Gist Link Hub — Encurtador e Redirecionador Dinâmico
 
-[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://github.com/MarcosVRPereira/gist-link-hub)      [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/MarcosVRPereira/gist-link-hub)      [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)](https://github.com/MarcosVRPereira/gist-link-hub)      [![Status](https://img.shields.io/badge/Status-Online-success?style=for-the-badge)](https://gist-link-hub.vercel.app)
+[![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white)](https://github.com/MarcosVRPereira/gist-link-hub)      [![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](https://github.com/MarcosVRPereira/gist-link-hub)      [![Bun](https://img.shields.io/badge/Bun-%23000000.svg?logo=bun&logoColor=white)](https://github.com/MarcosVRPereira/gist-link-hub)      [![Status](https://img.shields.io/badge/Status-Online-success?)](https://gist-link-hub.vercel.app)
 
 Encurtador de links e redirecionador dinâmico pessoal ultrarrápido, construído com ***TypeScript*** rodando na ****Edge Runtime**** da Vercel *(0ms de cold start)*.
 

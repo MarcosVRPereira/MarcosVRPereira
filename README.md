@@ -16,7 +16,7 @@ Desenvolvo projetos práticos voltados ao front-end, com ênfase em componentiza
 
 ****Back-end****  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+[![Bun](https://img.shields.io/badge/Bun-%23000000.svg?logo=bun&logoColor=white)]&nbsp;&nbsp;&nbsp;&nbsp;
 ![REST API](https://img.shields.io/badge/API-REST-lightgrey)
 
 ****Mobile****  

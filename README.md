@@ -16,7 +16,7 @@ Desenvolvo projetos práticos voltados ao front-end, com ênfase em componentiza
 
 ****Back-end****  
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![REST API](https://img.shields.io/badge/API-REST-lightgrey)
 
 ****Mobile****  
@@ -29,7 +29,7 @@ Desenvolvo projetos práticos voltados ao front-end, com ênfase em componentiza
 ****Ferramentas****  
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?logo=visualstudiocode&logoColor=white)
 
